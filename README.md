@@ -3,7 +3,7 @@
 
 ## Contributors
 
-Edit this README file to add the name of all project contributors.
+
 
 To edit, you can:
 1. Garcia, Kyleen.
